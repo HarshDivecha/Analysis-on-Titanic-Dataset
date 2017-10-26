@@ -6,5 +6,5 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 
 <b>link to competition:<b> https://www.kaggle.com/c/titanic<br>
-<b>link to my kaggle profile:<b> https://www.kaggle.com/harshdatadivecha
+<b>link to my kaggle profile:<b> https://www.kaggle.com/harshdatadivecha<br>
 <b>View it in Jupyter Notebook:<b> https://nbviewer.jupyter.org/github/HarshDivecha/Analysis-on-Titanic-Dataset/blob/master/Titanic.ipynb
