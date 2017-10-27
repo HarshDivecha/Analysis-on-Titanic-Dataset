@@ -3,5 +3,5 @@ This data set contains info on salaries for various majors varying from start to
 
 View in Jupyter Notebook: https://github.com/HarshDivecha/Data-Science-Projects/blob/master/Exploring%20salaries%20w.r.t%20Majors/Exploring%20salaries%20w.r.t%20majors.ipynb<br><br>
 
-link to kaggle profile: https://www.kaggle.com/harshdatadivecha
+link to kaggle profile: https://www.kaggle.com/harshdatadivecha<br>
 link to dataset: https://www.kaggle.com/wsj/college-salaries/data
