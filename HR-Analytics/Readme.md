@@ -7,5 +7,5 @@ Intro to the Notebook:
 
 Links:
 
-Dataset : https://www.kaggle.com/ludobenistant/hr-analytics/data
+Dataset : https://www.kaggle.com/ludobenistant/hr-analytics/data <br>
 Kaggle profile: https://www.kaggle.com/harshdatadivecha
